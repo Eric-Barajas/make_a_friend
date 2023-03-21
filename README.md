@@ -1,4 +1,4 @@
-# 👋 Introducing `Studio Design Shop Repo`
+# 👋 Introducing `Make A Friend Repo`
 
 ## Table of Contents
 * [Description](#Description)
@@ -30,21 +30,36 @@ ___
 ___
 
 ## Technologies Used
-* Python <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+* React <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 
-* MySql <img align="left" alt="MySQL" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+* React Router <img align="left" alt="React Router" width="20px" style="padding-right:10px;" src="./server/public/gifs/reactrouter.png" />
 
 * VSCode <img align="left" alt="VSCode" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
-* Flask <img style="background-color:white; overflow:hidden;" align="left" alt="Flask" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
-
-* HTML5 <img align="left" alt="html" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+* Formik <img style="background-color:white; overflow:hidden;" align="left" alt="Formik" width="20px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />
 
 * CSS <img align="left" alt="css" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 
-* BOOTSTRAP <img align="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+* Redux toolkit <img align="left" alt="Redux toolkit" width="20px" style="padding-right:10px;" src="./server/public/gifs/redux.jpeg" />
 
-* Jinja2 <img align="left" alt="jinja2" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" />
+* Redux with Persistent 
+
+* Redux Dropzone 
+
+* Node.js <img align="left" alt="Node.js" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+
+* Express.js <img align="left" alt="Express.js" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+
+* MongoDb <img align="left" alt="MongoDb" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+
+* JWT (Json Web Token) <img align="left" alt="Json Web Token" width="20px" style="padding-right:10px;" src="./server/public/gifs/jwt.png" />
+
+* Mongoose
+
+* Multer 
+
+* Yup 
+
 
 [Return to Table of Contents](#Table-of-Contents)
 
@@ -54,23 +69,27 @@ ___
 ## Functionality
 You first Log in or make an account 
 
-<img src="./flask_app/static/images/login-registration.png" alt="login/registration page" width="500">  
+<img src="./server/public/gifs/login.gif" alt="login/registration page" width="500"> 
+
+Register page with complete validations and the added functionality of being able to upload a user image 
+
+<img src="./server/public/gifs/register.gif" alt="login/registration page" width="500">
 
 You can add your own comments to whose ever post you'd like
 
-<img src="./flask_app/static/images/dropdown.gif" alt="Choose a data file" width="500">  
+<img src="./server/public/gifs/commenting.gif" alt="Choose a data file" width="500">  
 
 You can like and dislike other users posts as well as follow or unfollow users
 
-<img src="./flask_app/static/images/cart.gif" alt="Items in cart" width="500">
+<img src="./server/public/gifs/like.gif" alt="Items in cart" width="500">
 
 You can make your own posts
 
-<img src="./flask_app/static/images/cart.gif" alt="Items in cart" width="500">
+<img src="./server/public/gifs/posting.gif" alt="Items in cart" width="500">
 
 You can toggle on or off the light vs dark mode
 
-<img src="./flask_app/static/images/cart.gif" alt="Items in cart" width="500">
+<img src="./server/public/gifs/light.gif" alt="Items in cart" width="500">
 
 [Return to Table of Contents](#Table-of-Contents)
 
